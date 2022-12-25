@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <brand name="Apple">
+        <product>
+            <listing>IPhone 14(128GB)</listing>
+            <price>€1,029.00</price>
+        </product>
+        <product>
+            <listing>IPhone 14 pro(256GB)</listing>
+            <price>€1,339.00</price>
+        </product>
+        <product new="true">
+            <listing>IPhone 14 pro max(512GB)</listing>
+            <price>€1.619.00</price>
+        </product>
+    </brand>
+    <brand name="Samsung">
+        <product>
+            <listing>Galaxy S22 Plus(128GB)</listing>
+            <price>€929.99</price>
+        </product>
+        <product>
+            <listing>Galaxy S22 Ultra(5)(256GB)</listing>
+            <price>€1,399.00</price>
+        </product>
+        <product new="true">
+            <listing>Galaxy Z Fold4(12GB X 256GB)</listing>
+            <price>€1,879.00</price>
+        </product>
+    </brand>
+    <brand name="Huawei">
+        <product>
+            <listing>Huawei P30 Pro(256GB)</listing>
+            <price>€545.00</price>
+        </product>
+        <product>
+            <listing>Huawei P40 Pro(8GB X 512GB)</listing>
+            <price>€899.00</price>
+        </product>
+        <product new="true">
+            <listing>Huawei P50 Pro(8GB X 256GB)</listing>
+            <price>€1,416.89</price>
+        </product>
+    </brand>
+    <brand name="Xiaomi">
+        <product>
+            <listing>Redmi Note 12(8GB X 256GB)</listing>
+            <price>€286.84</price>
+        </product>
+        <product>
+            <listing>Redmi Note 12 Pro 5G)</listing>
+            <price>€352.25</price>
+        </product>
+        <product new="true">
+            <listing>Redmi Note 12 Pro Plus(5G)</listing>
+            <price>€599.00</price>
+        </product>
+    </brand>
+    <brand name="OnePlus">
+        <product>
+            <listing>OnePlus 10 Pro(5G)</listing>
+            <price>€799.00</price>
+        </product>
+        <product>
+            <listing>OnePlus Nord CE 2(5G)</listing>
+            <price>€299.00</price>
+        </product>
+        <product>
+            <listing>OnePlus 10T(5G)</listing>
+            <price>€799.00</price>
+        </product>
+    </brand>
+</menu>
